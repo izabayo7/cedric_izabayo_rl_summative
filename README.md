@@ -8,6 +8,10 @@ A reinforcement learning project where an AI tutor agent learns to optimally seq
 
 This project is tied to the capstone project **"Brainiacs AI: An Adaptive AI Coding Tutor for Beginner Programmers."**
 
+## Demo Video
+
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=NW5NUroN7Bw)
+
 ## Installation
 
 ```bash
